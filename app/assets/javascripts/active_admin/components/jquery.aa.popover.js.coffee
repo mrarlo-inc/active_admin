@@ -27,8 +27,6 @@ window.AA.Popover = class AA.Popover
     @_buildPopover()
     @_bind()
 
-    return @
-
 
   open: ->
     @isOpen = true

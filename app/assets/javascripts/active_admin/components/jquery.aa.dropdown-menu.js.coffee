@@ -20,7 +20,6 @@ window.AA.DropdownMenu = class AA.DropdownMenu
     @_buildMenuList()
     @_bind()
 
-    return @
 
   open: ->
     @isOpen = true
